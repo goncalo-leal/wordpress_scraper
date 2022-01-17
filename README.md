@@ -8,4 +8,6 @@ Some poems were in more than one category, but since I was using dictionaries I 
 
 To complete this project I saw <a href="https://www.youtube.com/watch?v=U90vK84bq4s&t=475s" target="_blank">this</a> youtube tutorial.
 
+I stored all the poems in a json file as so as the poems division by category and by month and year
+
 <h3>You can check her poems in <a href="https://essenciadapoesia.wordpress.com/">https://essenciadapoesia.wordpress.com/</a></h3>
