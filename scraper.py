@@ -36,6 +36,8 @@ for archive in archives:
         poem_lines = ""
         for p in content.find_all('p'):
             poem_lines += p.text
+            for br in p.find_all("br"):
+                poem_lines += '\n'
             poem_lines += '\n'
 
         img = content.find('img')

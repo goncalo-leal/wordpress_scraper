@@ -1,0 +1,547 @@
+{
+    "Acorda": {
+        "name": "Acorda",
+        "date": "Agosto 24, 2015",
+        "file": "Acorda.txt"
+    },
+    "Perfil": {
+        "name": "Perfil",
+        "date": "Agosto 24, 2015",
+        "file": "Perfil.txt"
+    },
+    "Cai a noite": {
+        "name": "Cai a noite",
+        "date": "Agosto 25, 2015",
+        "file": "Cai_a_noite.txt"
+    },
+    "Viajo": {
+        "name": "Viajo",
+        "date": "Agosto 29, 2015",
+        "file": "Viajo.txt"
+    },
+    "O tempo que voa": {
+        "name": "O tempo que voa",
+        "date": "Agosto 30, 2015",
+        "file": "O_tempo_que voa.txt"
+    },
+    "O que importa…": {
+        "name": "O que importa…",
+        "date": "Setembro 6, 2015",
+        "file": "O_que_importa….txt"
+    },
+    "Nós…": {
+        "name": "Nós…",
+        "date": "Setembro 13, 2015",
+        "file": "Nós….txt"
+    },
+    "Porto Seguro": {
+        "name": "Porto Seguro",
+        "date": "Setembro 20, 2015",
+        "file": "Porto_Seguro.txt"
+    },
+    "Outono": {
+        "name": "Outono",
+        "date": "Setembro 27, 2015",
+        "file": "Outono.txt"
+    },
+    "Solidão": {
+        "name": "Solidão",
+        "date": "Outubro 4, 2015",
+        "file": "Solidão.txt"
+    },
+    "Lisboa": {
+        "name": "Lisboa",
+        "date": "Outubro 10, 2015",
+        "file": "Lisboa.txt"
+    },
+    "Mulher bonita": {
+        "name": "Mulher bonita",
+        "date": "Outubro 18, 2015",
+        "file": "Mulher_bonita.txt"
+    },
+    "Em desalinho": {
+        "name": "Em desalinho",
+        "date": "Outubro 24, 2015",
+        "file": "Em_desalinho.txt"
+    },
+    "Quero Ser": {
+        "name": "Quero Ser",
+        "date": "Novembro 1, 2015",
+        "file": "Quero_Ser.txt"
+    },
+    "Saudade": {
+        "name": "Saudade",
+        "date": "Novembro 8, 2015",
+        "file": "Saudade.txt"
+    },
+    "Mundo Cruel": {
+        "name": "Mundo Cruel",
+        "date": "Novembro 15, 2015",
+        "file": "Mundo_Cruel.txt"
+    },
+    "O Mar": {
+        "name": "O Mar",
+        "date": "Novembro 22, 2015",
+        "file": "O_Mar.txt"
+    },
+    "Sem abrigo": {
+        "name": "Sem abrigo",
+        "date": "Novembro 29, 2015",
+        "file": "Sem_abrigo.txt"
+    },
+    "Plantei uma árvore…": {
+        "name": "Plantei uma árvore…",
+        "date": "Dezembro 6, 2015",
+        "file": "Plantei_uma_árvore….txt"
+    },
+    "Amor": {
+        "name": "Amor",
+        "date": "Dezembro 13, 2015",
+        "file": "Amor.txt"
+    },
+    "Natal": {
+        "name": "Natal",
+        "date": "Dezembro 20, 2015",
+        "file": "Natal.txt"
+    },
+    "Ser": {
+        "name": "Ser",
+        "date": "Dezembro 28, 2015",
+        "file": "Ser.txt"
+    },
+    "Ser Feliz": {
+        "name": "Ser Feliz",
+        "date": "Janeiro 3, 2016",
+        "file": "Ser_Feliz.txt"
+    },
+    "No teu poema": {
+        "name": "No teu poema",
+        "date": "Janeiro 10, 2016",
+        "file": "No_teu_poema.txt"
+    },
+    "Entre Corpos": {
+        "name": "Entre Corpos",
+        "date": "Janeiro 17, 2016",
+        "file": "Entre_Corpos.txt"
+    },
+    "Só": {
+        "name": "Só",
+        "date": "Janeiro 24, 2016",
+        "file": "Só.txt"
+    },
+    "Que bom é ter um Amigo": {
+        "name": "Que bom é ter um Amigo",
+        "date": "Janeiro 31, 2016",
+        "file": "Que_bom_é_ter_um Amigo.txt"
+    },
+    "Ter tempo no tempo": {
+        "name": "Ter tempo no tempo",
+        "date": "Fevereiro 8, 2016",
+        "file": "Ter_tempo_no tempo.txt"
+    },
+    "Para ti…": {
+        "name": "Para ti…",
+        "date": "Fevereiro 14, 2016",
+        "file": "Para_ti….txt"
+    },
+    "Identidade": {
+        "name": "Identidade",
+        "date": "Fevereiro 28, 2016",
+        "file": "Identidade.txt"
+    },
+    "Sonho": {
+        "name": "Sonho",
+        "date": "Março 13, 2016",
+        "file": "Sonho.txt"
+    },
+    "Quero ser a tua flor": {
+        "name": "Quero ser a tua flor",
+        "date": "Março 20, 2016",
+        "file": "Quero_ser_a_tua flor.txt"
+    },
+    "Primavera": {
+        "name": "Primavera",
+        "date": "Março 28, 2016",
+        "file": "Primavera.txt"
+    },
+    "Sem palavras": {
+        "name": "Sem palavras",
+        "date": "Abril 3, 2016",
+        "file": "Sem_palavras.txt"
+    },
+    "O meu lar…": {
+        "name": "O meu lar…",
+        "date": "Abril 10, 2016",
+        "file": "O_meu_lar….txt"
+    },
+    "Olha-me": {
+        "name": "Olha-me",
+        "date": "Abril 17, 2016",
+        "file": "Olha-me.txt"
+    },
+    "Longa caminhada": {
+        "name": "Longa caminhada",
+        "date": "Maio 1, 2016",
+        "file": "Longa_caminhada.txt"
+    },
+    "Encontro": {
+        "name": "Encontro",
+        "date": "Maio 7, 2016",
+        "file": "Encontro.txt"
+    },
+    "Regressa": {
+        "name": "Regressa",
+        "date": "Maio 22, 2016",
+        "file": "Regressa.txt"
+    },
+    "Hoje, amanhã e depois…": {
+        "name": "Hoje, amanhã e depois…",
+        "date": "Junho 5, 2016",
+        "file": "Hoje,_amanhã_e depois….txt"
+    },
+    "Será gente?": {
+        "name": "Será gente?",
+        "date": "Junho 26, 2016",
+        "file": "Será_gente?.txt"
+    },
+    "As Palavras": {
+        "name": "As Palavras",
+        "date": "Julho 3, 2016",
+        "file": "As_Palavras.txt"
+    },
+    "Vem comigo": {
+        "name": "Vem comigo",
+        "date": "Julho 17, 2016",
+        "file": "Vem_comigo.txt"
+    },
+    "Não sei o que é a poesia": {
+        "name": "Não sei o que é a poesia",
+        "date": "Agosto 7, 2016",
+        "file": "Não_sei_o_que_é_a poesia.txt"
+    },
+    "Neste verão…": {
+        "name": "Neste verão…",
+        "date": "Agosto 13, 2016",
+        "file": "Neste_verão….txt"
+    },
+    "Hoje sou alfazema": {
+        "name": "Hoje sou alfazema",
+        "date": "Setembro 3, 2016",
+        "file": "Hoje_sou_alfazema.txt"
+    },
+    "Ao luar": {
+        "name": "Ao luar",
+        "date": "Setembro 11, 2016",
+        "file": "Ao_luar.txt"
+    },
+    "Despedida": {
+        "name": "Despedida",
+        "date": "Setembro 18, 2016",
+        "file": "Despedida.txt"
+    },
+    "Na minha aldeia": {
+        "name": "Na minha aldeia",
+        "date": "Setembro 25, 2016",
+        "file": "Na_minha_aldeia.txt"
+    },
+    "Desassossego": {
+        "name": "Desassossego",
+        "date": "Outubro 2, 2016",
+        "file": "Desassossego.txt"
+    },
+    "Estou a caminho": {
+        "name": "Estou a caminho",
+        "date": "Outubro 9, 2016",
+        "file": "Estou_a_caminho.txt"
+    },
+    "Uma nova estação": {
+        "name": "Uma nova estação",
+        "date": "Outubro 16, 2016",
+        "file": "Uma_nova_estação.txt"
+    },
+    "Convite": {
+        "name": "Convite",
+        "date": "Outubro 23, 2016",
+        "file": "Convite.txt"
+    },
+    "Um dia na cidade": {
+        "name": "Um dia na cidade",
+        "date": "Outubro 30, 2016",
+        "file": "Um_dia_na cidade.txt"
+    },
+    "Presente": {
+        "name": "Presente",
+        "date": "Novembro 6, 2016",
+        "file": "Presente.txt"
+    },
+    "Parte de mim…": {
+        "name": "Parte de mim…",
+        "date": "Novembro 13, 2016",
+        "file": "Parte_de_mim….txt"
+    },
+    "Marinheiro": {
+        "name": "Marinheiro",
+        "date": "Novembro 20, 2016",
+        "file": "Marinheiro.txt"
+    },
+    "Felicidade": {
+        "name": "Felicidade",
+        "date": "Novembro 27, 2016",
+        "file": "Felicidade.txt"
+    },
+    "Há dias assim…": {
+        "name": "Há dias assim…",
+        "date": "Dezembro 4, 2016",
+        "file": "Há_dias_assim….txt"
+    },
+    "Um lugar": {
+        "name": "Um lugar",
+        "date": "Dezembro 11, 2016",
+        "file": "Um_lugar.txt"
+    },
+    "Feliz Natal!": {
+        "name": "Feliz Natal!",
+        "date": "Dezembro 18, 2016",
+        "file": "Feliz_Natal!.txt"
+    },
+    "Livre": {
+        "name": "Livre",
+        "date": "Janeiro 8, 2017",
+        "file": "Livre.txt"
+    },
+    "Com Amor": {
+        "name": "Com Amor",
+        "date": "Janeiro 15, 2017",
+        "file": "Com_Amor.txt"
+    },
+    "Poema": {
+        "name": "Poema",
+        "date": "Janeiro 22, 2017",
+        "file": "Poema.txt"
+    },
+    "Discurso do Sol": {
+        "name": "Discurso do Sol",
+        "date": "Janeiro 29, 2017",
+        "file": "Discurso_do_Sol.txt"
+    },
+    "Quem somos?": {
+        "name": "Quem somos?",
+        "date": "Fevereiro 4, 2017",
+        "file": "Quem_somos?.txt"
+    },
+    "A menina dos sonhos": {
+        "name": "A menina dos sonhos",
+        "date": "Fevereiro 12, 2017",
+        "file": "A_menina_dos sonhos.txt"
+    },
+    "Memórias…": {
+        "name": "Memórias…",
+        "date": "Fevereiro 19, 2017",
+        "file": "Memórias….txt"
+    },
+    "Confusão…": {
+        "name": "Confusão…",
+        "date": "Fevereiro 25, 2017",
+        "file": "Confusão….txt"
+    },
+    "Quando anoitece": {
+        "name": "Quando anoitece",
+        "date": "Março 5, 2017",
+        "file": "Quando_anoitece.txt"
+    },
+    "O tempo": {
+        "name": "O tempo",
+        "date": "Março 12, 2017",
+        "file": "O_tempo.txt"
+    },
+    "A primavera a chegar": {
+        "name": "A primavera a chegar",
+        "date": "Março 19, 2017",
+        "file": "A_primavera_a chegar.txt"
+    },
+    "Como eu queria…": {
+        "name": "Como eu queria…",
+        "date": "Março 26, 2017",
+        "file": "Como_eu_queria….txt"
+    },
+    "Importa viver": {
+        "name": "Importa viver",
+        "date": "Abril 2, 2017",
+        "file": "Importa_viver.txt"
+    },
+    "Ser que me dá Ser": {
+        "name": "Ser que me dá Ser",
+        "date": "Abril 9, 2017",
+        "file": "Ser_que_me_dá Ser.txt"
+    },
+    "Somente sentir": {
+        "name": "Somente sentir",
+        "date": "Abril 25, 2017",
+        "file": "Somente_sentir.txt"
+    },
+    "Viagem": {
+        "name": "Viagem",
+        "date": "Abril 30, 2017",
+        "file": "Viagem.txt"
+    },
+    "Uma história colorida": {
+        "name": "Uma história colorida",
+        "date": "Maio 7, 2017",
+        "file": "Uma_história_colorida.txt"
+    },
+    "Entre nós…": {
+        "name": "Entre nós…",
+        "date": "Maio 14, 2017",
+        "file": "Entre_nós….txt"
+    },
+    "Cumplicidade": {
+        "name": "Cumplicidade",
+        "date": "Maio 21, 2017",
+        "file": "Cumplicidade.txt"
+    },
+    "Fragmento de momentos": {
+        "name": "Fragmento de momentos",
+        "date": "Maio 28, 2017",
+        "file": "Fragmento_de_momentos.txt"
+    },
+    "Enlace": {
+        "name": "Enlace",
+        "date": "Junho 4, 2017",
+        "file": "Enlace.txt"
+    },
+    "Fui indicada para “The versatile blogger award”": {
+        "name": "Fui indicada para “The versatile blogger award”",
+        "date": "Junho 5, 2017",
+        "file": "Fui_indicada_para_“The_versatile_blogger award”.txt"
+    },
+    "Quero ter tempo": {
+        "name": "Quero ter tempo",
+        "date": "Junho 9, 2017",
+        "file": "Quero_ter_tempo.txt"
+    },
+    "Terra Mãe": {
+        "name": "Terra Mãe",
+        "date": "Junho 15, 2017",
+        "file": "Terra_Mãe.txt"
+    },
+    "Fui indicada para ” The Mystery Blogger Award”": {
+        "name": "Fui indicada para ” The Mystery Blogger Award”",
+        "date": "Junho 20, 2017",
+        "file": "Fui_indicada_para_”_The_Mystery_Blogger Award”.txt"
+    },
+    "Desencontro": {
+        "name": "Desencontro",
+        "date": "Junho 24, 2017",
+        "file": "Desencontro.txt"
+    },
+    "3ª. Indicação ao Mystery Blogger Award": {
+        "name": "3ª. Indicação ao Mystery Blogger Award",
+        "date": "Junho 27, 2017",
+        "file": "3ª._Indicação_ao_Mystery_Blogger Award.txt"
+    },
+    "Convite de verão": {
+        "name": "Convite de verão",
+        "date": "Julho 2, 2017",
+        "file": "Convite_de_verão.txt"
+    },
+    "Hoje, apenas hoje…": {
+        "name": "Hoje, apenas hoje…",
+        "date": "Julho 6, 2017",
+        "file": "Hoje,_apenas_hoje….txt"
+    },
+    "Terra e Mar": {
+        "name": "Terra e Mar",
+        "date": "Julho 13, 2017",
+        "file": "Terra_e_Mar.txt"
+    },
+    "Escuridão": {
+        "name": "Escuridão",
+        "date": "Julho 19, 2017",
+        "file": "Escuridão.txt"
+    },
+    "Espero por ti": {
+        "name": "Espero por ti",
+        "date": "Julho 23, 2017",
+        "file": "Espero_por_ti.txt"
+    },
+    "Deixo-me ir…": {
+        "name": "Deixo-me ir…",
+        "date": "Julho 30, 2017",
+        "file": "Deixo-me_ir….txt"
+    },
+    "Com saudade": {
+        "name": "Com saudade",
+        "date": "Agosto 6, 2017",
+        "file": "Com_saudade.txt"
+    },
+    "Metamorfose": {
+        "name": "Metamorfose",
+        "date": "Agosto 11, 2017",
+        "file": "Metamorfose.txt"
+    },
+    "Pelas ruas da cidade…": {
+        "name": "Pelas ruas da cidade…",
+        "date": "Agosto 17, 2017",
+        "file": "Pelas_ruas_da cidade….txt"
+    },
+    "Entrego-me…": {
+        "name": "Entrego-me…",
+        "date": "Agosto 22, 2017",
+        "file": "Entrego-me….txt"
+    },
+    "Berço de aconchego": {
+        "name": "Berço de aconchego",
+        "date": "Agosto 27, 2017",
+        "file": "Berço_de_aconchego.txt"
+    },
+    "Vou com o olhar…": {
+        "name": "Vou com o olhar…",
+        "date": "Setembro 4, 2017",
+        "file": "Vou_com_o olhar….txt"
+    },
+    "Num banco de jardim": {
+        "name": "Num banco de jardim",
+        "date": "Setembro 10, 2017",
+        "file": "Num_banco_de jardim.txt"
+    },
+    "Poeta": {
+        "name": "Poeta",
+        "date": "Setembro 17, 2017",
+        "file": "Poeta.txt"
+    },
+    "Traços…": {
+        "name": "Traços…",
+        "date": "Setembro 24, 2017",
+        "file": "Traços….txt"
+    },
+    "Dizem… que é outono": {
+        "name": "Dizem… que é outono",
+        "date": "Outubro 1, 2017",
+        "file": "Dizem…_que_é outono.txt"
+    },
+    "Rasgo o vento": {
+        "name": "Rasgo o vento",
+        "date": "Outubro 6, 2017",
+        "file": "Rasgo_o_vento.txt"
+    },
+    "Entre incertezas…": {
+        "name": "Entre incertezas…",
+        "date": "Outubro 15, 2017",
+        "file": "Entre_incertezas….txt"
+    },
+    "Apenas um sonho": {
+        "name": "Apenas um sonho",
+        "date": "Outubro 22, 2017",
+        "file": "Apenas_um_sonho.txt"
+    },
+    "Estendo-te as minhas mãos": {
+        "name": "Estendo-te as minhas mãos",
+        "date": "Outubro 29, 2017",
+        "file": "Estendo-te_as_minhas mãos.txt"
+    },
+    "Nudez …": {
+        "name": "Nudez …",
+        "date": "Novembro 2, 2017",
+        "file": "Nudez_….txt"
+    }
+}

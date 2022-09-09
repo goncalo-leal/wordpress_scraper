@@ -50,6 +50,13 @@
         ],
         "quantity": 4
     },
+    "Abril 2022": {
+        "poems": [
+            "\u2026Toca a viver\u2026",
+            "\u2026E assim pousa\u00a0Abril\u2026"
+        ],
+        "quantity": 2
+    },
     "Agosto 2015": {
         "poems": [
             "O tempo que\u00a0voa",
@@ -215,6 +222,15 @@
         ],
         "quantity": 4
     },
+    "Fevereiro 2022": {
+        "poems": [
+            "\u2026Sem Palavras\u2026",
+            "Rotina do dia",
+            "Serei eu?",
+            "\u2026Entre fases\u2026"
+        ],
+        "quantity": 4
+    },
     "Janeiro 2016": {
         "poems": [
             "Que bom \u00e9 ter um\u00a0Amigo",
@@ -273,10 +289,13 @@
     },
     "Janeiro 2022": {
         "poems": [
+            "Ser\u00e1 fevereiro",
+            "Eu e Tu",
+            "\u2026Entre as minhas\u00a0m\u00e3os\u2026",
             "\u2026 Aroma do dia\u00a0\u2026",
             "Sentir Janeiro"
         ],
-        "quantity": 2
+        "quantity": 5
     },
     "Julho 2016": {
         "poems": [
@@ -373,6 +392,14 @@
         ],
         "quantity": 4
     },
+    "Junho 2022": {
+        "poems": [
+            "Ser Perfume",
+            "Partir ou Chegar",
+            "\u2026Meu doce Junho\u2026"
+        ],
+        "quantity": 3
+    },
     "Maio 2016": {
         "poems": [
             "Regressa",
@@ -427,6 +454,15 @@
         ],
         "quantity": 3
     },
+    "Maio 2022": {
+        "poems": [
+            "Presente",
+            "\u2026Ir olhar o\u00a0mar\u2026",
+            "Fragmentos",
+            "Bem vindo Maio!"
+        ],
+        "quantity": 4
+    },
     "Mar\u00e7o 2016": {
         "poems": [
             "Primavera",
@@ -480,6 +516,16 @@
             "\u2026Entre aromas\u2026"
         ],
         "quantity": 3
+    },
+    "Mar\u00e7o 2022": {
+        "poems": [
+            "\u2026Recome\u00e7ar\u2026",
+            "Carta \u00e0 Primavera",
+            "Viagem do tempo",
+            "\u2026E o mundo\u00a0escurece\u2026",
+            "Assim chega mar\u00e7o\u2026"
+        ],
+        "quantity": 5
     },
     "Novembro 2015": {
         "poems": [

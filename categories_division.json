@@ -7,6 +7,10 @@
     },
     "Amor": {
         "poems": [
+            "Presente",
+            "\u2026Sem Palavras\u2026",
+            "Ser\u00e1 fevereiro",
+            "Eu e Tu",
             "\u2026Rodopiando\u2026",
             "Sempre guardado em\u00a0mim",
             "Rasgar o tempo",
@@ -72,7 +76,7 @@
             "Viajo",
             "Cai a noite"
         ],
-        "quantity": 64
+        "quantity": 68
     },
     "Anivers\u00e1rio": {
         "poems": [
@@ -90,13 +94,16 @@
     },
     "Dor": {
         "poems": [
+            "\u2026E o mundo\u00a0escurece\u2026",
+            "Serei eu?",
             "No voo da\u00a0solid\u00e3o",
             "N\u00e3o sei o que\u00a0dizer\u2026"
         ],
-        "quantity": 2
+        "quantity": 4
     },
     "Esta\u00e7\u00f5es": {
         "poems": [
+            "Carta \u00e0 Primavera",
             "E de repente o\u00a0outono",
             "Chegou dezembro",
             "Soa a Sil\u00eancio",
@@ -114,7 +121,7 @@
             "Dizem\u2026 que \u00e9\u00a0outono",
             "Convite de ver\u00e3o"
         ],
-        "quantity": 16
+        "quantity": 17
     },
     "Felicidade": {
         "poems": [
@@ -162,6 +169,7 @@
     },
     "Mar": {
         "poems": [
+            "\u2026Ir olhar o\u00a0mar\u2026",
             "\u2026 O meu mar\u00a0\u2026",
             "Navegando",
             "Embarquei\u2026",
@@ -176,7 +184,16 @@
             "Neste ver\u00e3o\u2026",
             "O Mar"
         ],
-        "quantity": 13
+        "quantity": 14
+    },
+    "Meses": {
+        "poems": [
+            "\u2026Meu doce Junho\u2026",
+            "Bem vindo Maio!",
+            "\u2026E assim pousa\u00a0Abril\u2026",
+            "Assim chega mar\u00e7o\u2026"
+        ],
+        "quantity": 4
     },
     "M\u00e3e": {
         "poems": [
@@ -235,6 +252,9 @@
     },
     "Ser": {
         "poems": [
+            "Ser Perfume",
+            "Partir ou Chegar",
+            "Fragmentos",
             "\u2026 Tempo \u2026",
             "\u2026Caminho\u2026",
             "Coordenadas",
@@ -268,7 +288,7 @@
             "O que importa\u2026",
             "Perfil"
         ],
-        "quantity": 32
+        "quantity": 35
     },
     "Solid\u00e3o": {
         "poems": [
@@ -293,6 +313,8 @@
     },
     "Tempo": {
         "poems": [
+            "\u2026Toca a viver\u2026",
+            "Viagem do tempo",
             "Sentir Janeiro",
             "Dezembro",
             "Bom dia!",
@@ -320,10 +342,11 @@
             "Ter tempo no\u00a0tempo",
             "O tempo que\u00a0voa"
         ],
-        "quantity": 26
+        "quantity": 28
     },
     "Viver": {
         "poems": [
+            "\u2026Recome\u00e7ar\u2026",
             "\u2026Era uma Vez\u2026",
             "\u2026Ver com o\u00a0olhar\u2026",
             "Somos Palavras",
@@ -368,10 +391,13 @@
             "Mundo Cruel",
             "Lisboa"
         ],
-        "quantity": 43
+        "quantity": 44
     },
     "poesia": {
         "poems": [
+            "Rotina do dia",
+            "\u2026Entre fases\u2026",
+            "\u2026Entre as minhas\u00a0m\u00e3os\u2026",
             "Albergue de emo\u00e7\u00f5es",
             "Em constru\u00e7\u00e3o",
             "Amanhecer com poesia",
@@ -399,6 +425,6 @@
             "Cumplicidade",
             "Poema"
         ],
-        "quantity": 26
+        "quantity": 29
     }
 }
